@@ -40,3 +40,8 @@ li a {
 	color: white;
 	text-decoration: none;
 }
+
+.mapouter {
+	padding-top: 50px;
+	padding-left: 50px;
+}
